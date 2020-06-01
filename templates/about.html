@@ -9,8 +9,9 @@
 <div class="row featurette">
   {% if loop.index % 2 != 0 %}
 	<div class="col-md-7">
-		<h3>{{loop.index}}  {{ disciple.Name }}</h3>
-		<p>{{ disciple.Descreption}}</p>
+		<h3>{{loop.index}}.  {{ disciple.Name }}</h3>
+		<p>{{ disciple.short_descreption}}</p>
+        <div class="text-right"><a href="/about/{{disciple.url}}">Read more..</a></div>
 	</div>
 	 <div class="col-md-5">
 		<img class="featurette-image img-responsive" src="{{disciple.image_source }}" alt="">
@@ -20,8 +21,9 @@
 		<img class="featurette-image img-responsive" src="{{disciple.image_source }}" alt="">
      </div>
     <div class="col-md-7">
-		<h3>{{loop.index}}  {{ disciple.Name }}</h3>
-		<p>{{ disciple.Descreption}}</p>
+		<h3>{{loop.index}}.  {{ disciple.Name }}</h3>
+		<p>{{ disciple.short_descreption}}</p>
+        <div class="text-right"><a href="/about/{{disciple.url}}">Read more..</a></div>
 	</div>
      {% endif %}
 	</div>
