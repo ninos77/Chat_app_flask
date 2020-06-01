@@ -1,21 +1,21 @@
 [
     {"Name":"Peter",
-    "Descreption":"Simon Peter, son of Jonas, was a fisherman who lived in Bethsaida and Capernaum.
-     He did evangelistic and missionary work among the Jews",
+    "Descreption":"Simon Peter, son of Jonas, was a fisherman who lived in Bethsaida and Capernaum.He did evangelistic and missionary work among the Jews",
     "image_source":"https://bibleinfo.s3-us-west-2.amazonaws.com/images/disciples/peter-opt.jpg"
     },
     {
         "Name":"James",
-        "Descreption":"James, the Elder, Boanerges, son of Zebedee and Salome, brother of John the Apostle; a fisherman who
-					lived in Bethsaida, Capernaum and Jerusalem. He preached in Jerusalem and Judea and was beheaded by
-					Herod, AD 44 (Acts 12:1,2). He was a member of the Inner Circle, so called because they were
-					accorded special privileges. The New Testament tells us very little about James. His name never
-					appears apart from that of his brother, John. They were an inseparable pair (Mark 1:19-20; Matthew
-					4:21; Luke 5:1-11).
-
-					He was a man of courage and forgiveness, a man without jealousy, living in the shadow of John, a man
-					of extraordinary faith. He was the first of the twelve to become a martyr. His symbol is three
-					shells, the sign of his pilgrimage by the sea.",
+        "Descreption":"James, the Elder, Boanerges, son of Zebedee and Salome, brother of John the Apostle; a fisherman who",
         "image_source":"https://bibleinfo.s3-us-west-2.amazonaws.com/images/disciples/james-greater-opt.jpg"
+    },
+    {
+        "Name":"John",
+        "Descreption":"John Boanerges, son of Zebedee and Salome, brother of James, the Apostle. He was known as the Beloved Disciple. A fisherman who lived in Bethsaida, Capernaum and Jerusalem, he was a member of the Inner Circle. He wrote the Gospel of John, I John, II John, III John and Revelation. He preached among the churches of Asia Minor. Banished to the Isle of Patmos, he was later freed and died a natural death. John was one of the prominent Apostles.",
+        "image_source":"https://bibleinfo.s3-us-west-2.amazonaws.com/images/disciples/john-opt.jpg"
+    },
+    {
+        "Name":"Andrew",
+        "Descreption":"Andrew was the brother of Peter, and a son of Jonas. He lived in Bethsaida and Capernaum and was a fisherman before Jesus called him. Originally he was a disciple of John the Baptist (Mark 1:16-18). Andrew brought his brother, Peter, to Jesus (John 1:40). He is the first to have the title of Home and Foreign Missionary. He is claimed by three countries as their Patron Saint-Russia, Scotland and Greece. Many scholars say that he preached in Scythia, Greece and Asia Minor.",
+        "image_source":"https://bibleinfo.s3-us-west-2.amazonaws.com/images/disciples/andrew2-opt.jpg"
     }
 ]
