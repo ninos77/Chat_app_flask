@@ -1,8 +1,9 @@
 import os
 import json
-from flask import Flask, render_template
+from flask import Flask, render_template, request, flash
 
 app = Flask(__name__)
+app.secret_key = "some_secret"
 
 
 @app.route("/")
@@ -17,6 +18,7 @@ def about():
         data = json.load(json_data)
     return render_template("about.html", page_title="About", disciples=data)
 
+
 @app.route("/about/<disciple_name>")
 def about_disciple(disciple_name):
     disciple = {}
@@ -28,8 +30,11 @@ def about_disciple(disciple_name):
                 disciple = obj
     return render_template("disciples.html", disciple=disciple)
 
-@app.route("/contact")
+
+@app.route("/contact", methods=["GET", "POST"])
 def contact():
+    if request.method == "POST":
+        flash(f'Thanks {request.form["name"]}, We have recived your message')
     return render_template("contact.html", page_title="Contact")
 
 
