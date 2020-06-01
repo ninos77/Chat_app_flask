@@ -1,0 +1,21 @@
+[
+    {"Name":"Peter",
+    "Descreption":"Simon Peter, son of Jonas, was a fisherman who lived in Bethsaida and Capernaum.
+     He did evangelistic and missionary work among the Jews",
+    "image_source":"https://bibleinfo.s3-us-west-2.amazonaws.com/images/disciples/peter-opt.jpg"
+    },
+    {
+        "Name":"James",
+        "Descreption":"James, the Elder, Boanerges, son of Zebedee and Salome, brother of John the Apostle; a fisherman who
+					lived in Bethsaida, Capernaum and Jerusalem. He preached in Jerusalem and Judea and was beheaded by
+					Herod, AD 44 (Acts 12:1,2). He was a member of the Inner Circle, so called because they were
+					accorded special privileges. The New Testament tells us very little about James. His name never
+					appears apart from that of his brother, John. They were an inseparable pair (Mark 1:19-20; Matthew
+					4:21; Luke 5:1-11).
+
+					He was a man of courage and forgiveness, a man without jealousy, living in the shadow of John, a man
+					of extraordinary faith. He was the first of the twelve to become a martyr. His symbol is three
+					shells, the sign of his pilgrimage by the sea.",
+        "image_source":"https://bibleinfo.s3-us-west-2.amazonaws.com/images/disciples/james-greater-opt.jpg"
+    }
+]
