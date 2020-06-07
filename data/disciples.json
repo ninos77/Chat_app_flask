@@ -1,25 +1,26 @@
 [
-    {"Name":"Peter",
+    {"Nr":1,
+    "Name":"Peter",
     "short_descreption":"Simon Peter, son of Jonas, was a fisherman who lived in Bethsaida and Capernaum....",
     "long_descreption":"Simon Peter, son of Jonas, was a fisherman who lived in Bethsaida and Capernaum. He did evangelistic and missionary work among the Jews, going as far as Babylon. He was a member of the Inner Circle and authored the two New Testament epistles which bear his name. Tradition says he was crucified, head downward, in Rome.In every apostolic list, the name Peter is mentioned first. However, Peter had other names. At the time of Christ, the common language was Greek and the family language was Hebrew. So his Greek name was Simon (Mark 1:16; John 1:40, 41). His Hebrew name was Cephas (1 Corinthians 1:12; 3:22; 9:5 and Galatians 2:9). The Greek meaning of Simon is rock. The Arabic meaning of Cephas is also rock.",
     "image_source":"https://bibleinfo.s3-us-west-2.amazonaws.com/images/disciples/peter-opt.jpg",
     "url":"peter"
     },
-    {
+    {   "Nr":2, 
         "Name":"James",
         "short_descreption":"James, the Elder, Boanerges, son of Zebedee and Salome, brother of John the Apostle; ....",
         "long_descreption":"James, the Elder, Boanerges, son of Zebedee and Salome, brother of John the Apostle; a fisherman who lived in Bethsaida, Capernaum and Jerusalem. He preached in Jerusalem and Judea and was beheaded by Herod, AD 44 (Acts 12:1,2). He was a member of the Inner Circle, so called because they were accorded special privileges. The New Testament tells us very little about James. His name never appears apart from that of his brother, John. They were an inseparable pair (Mark 1:19-20; Matthew 4:21; Luke 5:1-11).He was a man of courage and forgiveness, a man without jealousy, living in the shadow of John, a man of extraordinary faith. He was the first of the twelve to become a martyr. His symbol is three shells, the sign of his pilgrimage by the sea.",
         "image_source":"https://bibleinfo.s3-us-west-2.amazonaws.com/images/disciples/james-greater-opt.jpg",
         "url":"james"
     },
-    {
+    {   "Nr":3,
         "Name":"John",
         "short_descreption":"John Boanerges, son of Zebedee and Salome, brother of James, the Apostle.....",
         "long_descreption":"John Boanerges, son of Zebedee and Salome, brother of James, the Apostle. He was known as the Beloved Disciple. A fisherman who lived in Bethsaida, Capernaum and Jerusalem, he was a member of the Inner Circle. He wrote the Gospel of John, I John, II John, III John and Revelation. He preached among the churches of Asia Minor. Banished to the Isle of Patmos, he was later freed and died a natural death. John was one of the prominent Apostles. He is mentioned in many places in the New Testament. He was a man of action; he was very ambitious; and a man with an explosive temper and an intolerant heart. His second name was Boanerges, which means son of Thunder. He and his brother, James, came from a more well-to-do family than the rest of the 12 Apostles. Since his father had hired servants in his fishing business (Mark 1:20) he may have felt himself above the rest. He was close to Peter. They were acting together in the ministry. Peter, however, was always the spokesman for the band.",
         "image_source":"https://bibleinfo.s3-us-west-2.amazonaws.com/images/disciples/john-opt.jpg",
         "url":"john"
     },
-    {
+    {   "Nr":4,
         "Name":"Andrew",
         "short_descreption":"Andrew was the brother of Peter, and a son of Jonas. He lived in Bethsaida and Capernaum and was a fisherman before Jesus called him.....",
         "long_descreption":"Andrew was the brother of Peter, and a son of Jonas. He lived in Bethsaida and Capernaum and was a fisherman before Jesus called him. Originally he was a disciple of John the Baptist (Mark 1:16-18). Andrew brought his brother, Peter, to Jesus (John 1:40). He is the first to have the title of Home and Foreign Missionary. He is claimed by three countries as their Patron Saint-Russia, Scotland and Greece. Many scholars say that he preached in Scythia, Greece and Asia Minor.Andrew introduced others to Jesus. Although circumstances placed him in a position where it would have been easy for him to become jealous and resentful, he was optimistic and well content in second place. His main purpose in life was to bring others to the master.",
